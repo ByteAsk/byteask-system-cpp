@@ -1,0 +1,73 @@
+code	task	set	hard	repo	base_commit
+H01	fastfloat__fast_float-419	popular		fastfloat/fast_float	9498cc361e08
+H02	fmtlib__fmt-4972	popular		fmtlib/fmt	10cda465edf1
+H03	fmtlib__fmt-4974	popular		fmtlib/fmt	fdf31252e61c
+H04	fmtlib__fmt-4976	popular		fmtlib/fmt	10cda465edf1
+H05	google__benchmark-2291	popular		google/benchmark	f2f78087c223
+H06	google__googletest-5082	popular		google/googletest	5f31f20edabd
+H07	jbeder__yaml-cpp-1499	popular		jbeder/yaml-cpp	8eb618e889c0
+H08	nlohmann__json-5678	popular		nlohmann/json	7d7055ec500a
+H09	nlohmann__json-5680	popular		nlohmann/json	633de8e44bbb
+H10	nlohmann__json-5682	popular		nlohmann/json	633de8e44bbb
+H11	nlohmann__json-5686	popular		nlohmann/json	633de8e44bbb
+H12	nlohmann__json-5689	popular		nlohmann/json	6a073dbae4a2
+H13	nlohmann__json-5690	popular		nlohmann/json	6a073dbae4a2
+H14	nlohmann__json-5691	popular		nlohmann/json	633de8e44bbb
+H15	nlohmann__json-5692	popular		nlohmann/json	6fc0d501f37a
+H16	nlohmann__json-5694	popular		nlohmann/json	633de8e44bbb
+H17	nlohmann__json-5700	popular		nlohmann/json	6a073dbae4a2
+H18	nlohmann__json-5701	popular		nlohmann/json	8a142bc4362a
+H19	nlohmann__json-5706	popular		nlohmann/json	633de8e44bbb
+H20	nlohmann__json-5719	popular		nlohmann/json	633de8e44bbb
+H21	nlohmann__json-5721	popular		nlohmann/json	633de8e44bbb
+H22	nlohmann__json-5866	popular		nlohmann/json	0e95fe8200ad
+H23	simdjson__simdjson-2925	popular	yes	simdjson/simdjson	514780005f7b
+P01	5cript__interval-tree-67	little-known		5cript/interval-tree	e9caf2fb3e32
+P02	AMReX-Codes__amrex-5833	little-known		AMReX-Codes/amrex	ae079342654b
+P03	AMReX-Codes__amrex-5912	little-known	yes	AMReX-Codes/amrex	5a08d94fc6ab
+P04	AMReX-Codes__amrex-6068	little-known		AMReX-Codes/amrex	9c987273a251
+P05	Open-Agriculture__AgIsoStack-plus-plus-718	little-known		Open-Agriculture/AgIsoStack-plus-plus	ad55b262a4ef
+P06	Open-Agriculture__AgIsoStack-plus-plus-724	little-known	yes	Open-Agriculture/AgIsoStack-plus-plus	1d081d9a9df6
+P07	Open-Agriculture__AgIsoStack-plus-plus-762	little-known		Open-Agriculture/AgIsoStack-plus-plus	9b5b6f3ae96c
+P08	Open-Agriculture__AgIsoStack-plus-plus-783	little-known	yes	Open-Agriculture/AgIsoStack-plus-plus	c39a197bf9d0
+P09	Open-Agriculture__AgIsoStack-plus-plus-805	little-known		Open-Agriculture/AgIsoStack-plus-plus	77b8dc92e52a
+P10	boost-ext__sml-729	little-known		boost-ext/sml	5d9a95e05cb4
+P11	boost-ext__sml-732	little-known		boost-ext/sml	016425f53561
+P12	boost-ext__sml-738	little-known		boost-ext/sml	947ed3316c64
+P13	fktn-k__fkYAML-547	little-known		fktn-k/fkYAML	f51e0b52aab2
+P14	fktn-k__fkYAML-549	little-known	yes	fktn-k/fkYAML	fc3abcf35207
+P15	fktn-k__fkYAML-573	little-known		fktn-k/fkYAML	c9e1cea33519
+P16	fktn-k__fkYAML-574	little-known		fktn-k/fkYAML	be7bb1be6c59
+P17	fktn-k__fkYAML-575	little-known		fktn-k/fkYAML	09c5e36bd2a1
+P18	fktn-k__fkYAML-577	little-known		fktn-k/fkYAML	7c16772e54a4
+P19	libfn__functional-295	little-known		libfn/functional	e1e03110e33a
+P20	libfn__functional-297	little-known		libfn/functional	cc59add97f6f
+P21	libfn__functional-299	little-known		libfn/functional	ef3c9788e9b8
+P22	libfn__functional-306	little-known		libfn/functional	88badc80e3a7
+P23	libfn__functional-307	little-known		libfn/functional	fa78c1a10b18
+P24	libfn__functional-312	little-known		libfn/functional	2adeb99345c4
+P25	libfn__functional-320	little-known		libfn/functional	add0632da2a4
+P26	libfn__functional-369	little-known		libfn/functional	c7879ca61cc6
+P27	libfn__functional-385	little-known		libfn/functional	7e7e47d85097
+P28	mariusbancila__croncpp-45	little-known		mariusbancila/croncpp	3b49f4c9d0ac
+P29	open-telemetry__opentelemetry-cpp-4236	little-known		open-telemetry/opentelemetry-cpp	04b97c7b9a7a
+P30	open-telemetry__opentelemetry-cpp-4472	little-known		open-telemetry/opentelemetry-cpp	cd252b4ec41b
+P31	open-telemetry__opentelemetry-cpp-4624	little-known		open-telemetry/opentelemetry-cpp	ad74ba28a64e
+P32	open-telemetry__opentelemetry-cpp-4702	little-known		open-telemetry/opentelemetry-cpp	adebdf0c7159
+P33	open-telemetry__opentelemetry-cpp-4703	little-known		open-telemetry/opentelemetry-cpp	fc137c67e6b2
+P34	open-telemetry__opentelemetry-cpp-4717	little-known		open-telemetry/opentelemetry-cpp	cdd17eb10b20
+P35	pboettch__json-schema-validator-399	little-known		pboettch/json-schema-validator	9abddfa905bb
+P36	tgockel__json-voorhees-209	little-known		tgockel/json-voorhees	09c8b78af624
+P37	tgockel__json-voorhees-239	little-known		tgockel/json-voorhees	947509c1cd59
+P38	tgockel__json-voorhees-303	little-known		tgockel/json-voorhees	257d727b1ec7
+P39	tgockel__json-voorhees-304	little-known		tgockel/json-voorhees	6a400c58b838
+P40	thelfer__tfel-1064	little-known		thelfer/tfel	8da48b651e4c
+P41	thelfer__tfel-1098	little-known		thelfer/tfel	7f281878346f
+P42	thelfer__tfel-1110	little-known		thelfer/tfel	dc5952143b5e
+P43	thelfer__tfel-1122	little-known		thelfer/tfel	ed3fffb54d45
+P44	thelfer__tfel-1166	little-known		thelfer/tfel	1cdceaeac97f
+P45	webern__mx-344	little-known		webern/mx	988beeb703ef
+P46	webern__mx-351	little-known		webern/mx	5b595df2c945
+P47	webern__mx-448	little-known		webern/mx	b64f105fa8f4
+P48	webern__mx-457	little-known		webern/mx	259e38250e07
+P49	webern__mx-459	little-known		webern/mx	259e38250e07
